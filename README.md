@@ -107,7 +107,7 @@ Performance is assessed across baseline and oversampled configurations using str
 
 ## 📋 How to Reproduce
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/thesis-dropout-prediction.git
 cd thesis-dropout-prediction
