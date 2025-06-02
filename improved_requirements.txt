@@ -1,0 +1,25 @@
+# Core Data Science & Machine Learning
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+
+# Class Imbalance Handling
+imbalanced-learn
+
+# Model Explainability
+shap
+
+# Optimization & Modeling Tools
+cvxpy
+
+# Experiment Tracking (Optional, if used)
+# wandb
+# weave
+
+# Add other utilities if applicable
+# tqdm
+# textblob
+# joblib
