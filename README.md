@@ -112,16 +112,16 @@ Performance is assessed across baseline and oversampled configurations using str
 git clone https://github.com/yourusername/thesis-dropout-prediction.git
 cd thesis-dropout-prediction
 
-### 2. Create virtual enviroment
+2. Create virtual enviroment
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-### 3. Install dependencies
+3. Install dependencies
 
 pip install -r requirements.txt
 
-### 4. Run model pipeline
+4. Run model pipeline
 
 python src/main.py
 
