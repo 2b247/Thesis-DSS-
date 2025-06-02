@@ -1,0 +1,5 @@
+# Ignore all data by default
+data/*
+
+# But keep the README
+!data/README.md
